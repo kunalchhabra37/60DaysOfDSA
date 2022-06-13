@@ -22,7 +22,7 @@ In Python Lists are mutable, i.e. we can change the value of any index in the li
 
 ### List Slicing
 ---
-We can sice the list to get sub lists or sub arrays. It returns a new list. For slicing, we just use arr[start\:end\:step].
+We can sice the list to get sub lists or sub arrays. It returns a new list. For slicing, we just use arr[start : end :step].
 
 **The end Index is not included.**
 
